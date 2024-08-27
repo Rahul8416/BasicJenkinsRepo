@@ -6,6 +6,7 @@ public class MainClass {
 	{
 		System.out.println("This is Java Profram for jenskins");
 		System.out.println("This is for testing purpuse");
+		System.out.println("This is 3rd lie of this main methods");
 
 	}
 
